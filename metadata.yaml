@@ -1,0 +1,37 @@
+_repo: Animals-Rights-Considered-in-Relation-to-Social-Progress_64498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salt, Henry S.
+    aliases:
+    - Salt, Henry Stephens
+    - Salt, H. S.
+    birthdate: 1851
+    deathdate: 1939
+    gutenberg_agent_id: '36994'
+    url: http://www.gutenberg.org/2009/agents/36994
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Stephens_Salt
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal rights -- Bibliography'
+- !lcc 'HV'
+- !lcsh 'Vivisection'
+- !lcsh 'Animal rights'
+- !lcsh 'Vivisection -- Bibliography'
+- GITenberg
+tableOfContents: 'The principle of animals'' rights -- The case of domestic animals
+  -- The case of wild animals -- The slaughter of animals for food -- Sport, or amateur
+  butchery -- Murderous millinery -- Experimental torture -- Lines of reform -- Appendices:
+  The term "rights." The Neo-Cartesians. Motor versus horse. Zoological gardens. Scientist
+  and sacerdotalist. The confessions of a physician. Antipathy or sympathy? The animal
+  question and the social question -- Bibliography.'
+title: Animals' Rights Considered in Relation to Social Progress
+url: http://www.gutenberg.org/ebooks/64498
